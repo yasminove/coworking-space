@@ -34,9 +34,6 @@ nav {
 }
 
 .caption {
-    /* padding-left: 20px; */
-    /* font-size: 16px; */
-    /* font-weight: 500; */
     display: flex;
     justify-content: space-between;
     margin: 0 25px;
